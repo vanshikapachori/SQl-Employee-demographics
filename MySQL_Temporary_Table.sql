@@ -10,7 +10,7 @@ SELECT *
 FROM temp0_table
 ;
  INSERT temp0_table 
- VALUES ('Alwin','Lakra','Dark Knight Rises')
+ VALUES ('vanshika','pachori','Dark Knight Rises')
  ;
 SELECT *
 FROM temp0_table;
